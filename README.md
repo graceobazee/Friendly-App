@@ -46,7 +46,7 @@ Friendly bridges that gap – merging relationship management, lightweight socia
 - **Lifestyle:** Excels at work, long hours, limited free time  
 - **Pain Points:** Weak ties, losing touch with friends, limited social battery, promises to call/text but somehow forgets
 - **Goals:** Stay in touch with family and friends, Deepen friendships
-- **How Friendly Helps:** Reminders to check in, message suggestions  
+- **How Friendly Helps:** Cadre-based reminders prioritize inner circle and close friends; message suggestions for quick reconnection; professional contacts get appropriate, low-frequency nudges  
 
 ### Persona 2 – The Young Student
 - **Name:** Deji  
@@ -55,7 +55,7 @@ Friendly bridges that gap – merging relationship management, lightweight socia
 - **Lifestyle:** Building a network, balancing academics and social life  
 - **Pain Points:** Hard to manage new connections, forgets follow-ups  
 - **Goals:** Expand meaningful relationships efficiently  
-- **How Friendly Helps:** Message templates, structured reminders, 
+- **How Friendly Helps:** Cadre system helps organize growing network; message templates for different relationship tiers; structured reminders prevent awkward gaps in communication 
 
 ### Persona 3 – The Busy Parent & Entrepreneur
 - **Name:** Adesuwa  
@@ -64,16 +64,38 @@ Friendly bridges that gap – merging relationship management, lightweight socia
 - **Lifestyle:** Managing family, work, and personal growth  
 - **Pain Points:** Limited time to connect with family and friends  
 - **Goals:** Maintain personal and professional relationships without stress  
-- **How Friendly Helps:** Scheduled reminders, low-pressure message suggestions, private memory sharing  
+- **How Friendly Helps:** Cadre-based prioritization ensures family (inner circle) gets top attention; scheduled reminders for professional contacts at appropriate intervals; low-pressure message suggestions; private memory sharing with selected cadres  
 
 ---
 
 ## Key Features
-1. **Contact Reminders:** Custom or automatic nudges for check-ins.  
-2. **Message Suggestions:** Optional pre-written messages for smooth reconnecting.  
-3. **Moments:** Private, low-pressure feed for sharing thoughts, images, or updates.  
-4. **Smart Suggestions:** Learn from patterns to recommend when and whom to contact.  
-5. **Privacy & Control:** All data is private; opt-in notifications only.  
+
+### 1. Cadres of Connection
+Users can categorize contacts into defined tiers of closeness, ensuring notifications are meaningful and contextually appropriate:
+
+- **Inner Circle** – People you talk to most often; daily/weekly contact (family, best friends, partner)
+- **Close Friends** – Personal relationships but not everyday communication
+- **Friends** – General social group with regular but less frequent interaction
+- **Acquaintances** – Friendly contacts with low engagement expectations
+- **Professional / Need-to-Have** – Networking or collaboration contacts (colleagues, clients, business partners)
+- **Must Contact Occasionally** – People you want to keep in touch with every few months (mentors, role models, distant friends, former colleagues)
+
+Each cadre defines how frequently the app nudges you to connect. For example, you won't get a notification to call a carpenter you worked with 2 years ago when you should be checking in with your best friend. The app intelligently prioritizes based on your defined relationships.
+
+### 2. Contact Reminders
+Custom or automatic nudges for check-ins, informed by cadre settings and interaction history.
+
+### 3. Message Suggestions
+Optional pre-written messages for smooth reconnecting, tailored to the relationship tier.
+
+### 4. Moments
+Private, low-pressure feed for sharing thoughts, images, or updates with selected cadres.
+
+### 5. Smart Suggestions
+Learn from patterns to recommend when and whom to contact, respecting cadre boundaries.
+
+### 6. Privacy & Control
+All data is private; opt-in notifications only. You control who belongs in which cadre.  
 
 ---
 
